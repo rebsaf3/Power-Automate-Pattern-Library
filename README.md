@@ -1,3 +1,4 @@
+```markdown
 # Power Automate Pattern Library
 A practical patterns library for building Power Automate flows that do not fall apart in production.
 
